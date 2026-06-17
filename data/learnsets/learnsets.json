@@ -61996,6 +61996,10 @@
         "Level": 26,
         "Move": "MOVE_CURSE"
       },
+	  {
+        "Level": 28,
+        "Move": "MOVE_HYPNOSIS"
+      },
       {
         "Level": 30,
         "Move": "MOVE_SHADOW_BALL"
